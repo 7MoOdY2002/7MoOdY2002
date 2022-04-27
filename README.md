@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7MoOdY2002
-- 👀 I’m interested in programming,gaming,engineering, and the secrets of cosmos(not exactly most of the times)
+- 👀 I’m interested in programming,gaming,engineering, and the secrets of cosmos(not exactly most of the times) ❕
 - 🌱 I’m currently learning C++/PY/C/DOTNET/NODEJS...etc and of course engineering
-- 💞️ I’m looking to collaborate on different projects and of course competitive  algorithm
+- 💞️ I’m looking to collaborate on different projects and of course competitive programming 🧠
 - 📫 How to reach me .... hmmmm this is my instagram profile: https://www.instagram.com/alex_ionut_0111/
 - :smiling_face_with_three_hearts:	Of course and the love my life Verona 	:sparkling_heart:
 <!---
