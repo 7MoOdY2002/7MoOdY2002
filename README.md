@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on different projects and of course competitive programming 🧠
 - 📫 How to reach me .... hmmmm this is my instagram profile: 7MoOdY#2943
 - :smiling_face_with_three_hearts:	***SHE011121***	:sparkling_heart:
-</br></br>
+</br>
 
 ### If you want to get in touch with me 😸:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alex_ionut_0111/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ionut221)  
-</br></br>
+</br>
 ### My stats 💙 :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7MoOdY2002)](https://github.com/7MoOdY2002/github-readme-stats)
 <!---
