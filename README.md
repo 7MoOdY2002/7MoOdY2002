@@ -12,6 +12,8 @@
 </br>
 ### My stats 💙 :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7MoOdY2002&show_icons=true&theme=tokyonight)](https://github.com/7MoOdY2002/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7MoOdY2002&layout=compact&theme=tokyonight)](https://github.com/7MoOdY2002/github-readme-stats)
 <!---
 7MoOdY2002/7MoOdY2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
