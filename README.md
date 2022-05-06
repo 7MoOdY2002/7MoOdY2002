@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,gaming,engineering, and the secrets of cosmos(not exactly most of the times) ❕
 - 🌱 I’m currently learning C++/PY/C/DOTNET/NODEJS...etc and of course engineering
 - 💞️ I’m looking to collaborate on different projects and of course competitive programming 🧠
-- 📫 How to reach me .... hmmmm this is my instagram profile: 7MoOdY#2943
+- 📫 How to reach me .... hmmmm this is my discord: 7MoOdY#2943
 - :smiling_face_with_three_hearts:	***SHE011121***	:sparkling_heart:
 </br>
 
