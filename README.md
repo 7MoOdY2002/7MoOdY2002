@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++/PY/C/DOTNET/NODEJS...etc and of course engineering
 - 💞️ I’m looking to collaborate on different projects and of course competitive programming 🧠
 - 📫 How to reach me .... hmmmm this is my discord: 7MoOdY#2943
-- :smiling_face_with_three_hearts:	***SHE011121***	:sparkling_heart:
 </br>
 
 ### If you want to get in touch with me 😸:
